@@ -1,0 +1,18 @@
+body {
+    margin: 1rem;
+}
+#name-prompt {
+    padding-top: 0.5rem;
+}
+#buttons {
+    float: right;
+    padding-right: 3rem;
+    margin-top: -1rem;
+}
+
+#buttons button {
+    padding: 1rem 2rem;
+}
+#range {
+    padding: 0;
+}
